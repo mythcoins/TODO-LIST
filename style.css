@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+.header {
+    text-align: center; 
+    padding: 10px;
+    background-color: bisque;
+    font-size: 50px;
+    font-family: 'Cabin Sketch', cursive;
+    padding-bottom: 30px;
+}
+
+#messages {
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+    margin: 100px;
+    font-size: x-large;
+}
+
+#textbox {
+    font-size: larger;
+}
+
+.text-box-div {
+    margin: 50px;
+    position: fixed;
+    left: 30%;
+    right: 50%;
+}
+
+#button-div {
+    margin: 50px;
+    position: fixed;
+    left: 50%;
+    right: 50%;
+}
+
+#button {
+    font-size: larger;
+    border-radius: 5px;
+    padding: 5px;
+}
+
